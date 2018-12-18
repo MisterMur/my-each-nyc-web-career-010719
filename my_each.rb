@@ -6,5 +6,5 @@ def my_each(collection) # put argument(s) here
     
     i+=1
   end
-  collection
+  # collection
 end
